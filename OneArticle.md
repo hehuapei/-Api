@@ -30,7 +30,7 @@ json 示例：
 	- `prev`：昨日日期，`yyyyMMdd` 格式
 	- `next`：明日日期，`yyyyMMdd` 格式
 - `author`：作者
-- `titile`：标题
+- `title`：标题
 - `digest`：首段
 - `content`：正文内容
 - `wc`：???
